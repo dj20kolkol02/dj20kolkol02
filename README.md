@@ -33,4 +33,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dj20kolkol02&show_icons=true&locale=en" alt="dj20kolkol02" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dj20kolkol02&" alt="dj20kolkol02" /></p>
